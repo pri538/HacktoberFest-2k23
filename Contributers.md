@@ -31,3 +31,7 @@
 ### **Rudra Parmar**: [rudraparmar76](https://github.com/rudraparmar76)
 - Maharashrtra, India
 - Hobbies: Web Dev, Guitar, etc
+
+### **Athithian S.**: [ArcaneKnight52](https://github.com/ArcaneKnight52)
+- Tamil Nadu, India
+- Hobbies: Chess, CTF, Anime
