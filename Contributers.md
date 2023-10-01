@@ -8,3 +8,7 @@
 ### **Your-Name**: [Your-Name](https://github.com/pralinkhaira1903)
 - State, Country
 - Hobbies: Cricket, Gaming, etc
+
+### **Pranil Jha**: [Pranil](https://github.com/hackos123)
+- Gujrat, India
+- Hobbies: Cricket, Gaming, etc
