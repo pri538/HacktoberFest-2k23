@@ -37,6 +37,10 @@
 - Maharashrtra, India
 - Hobbies: Web Dev, Guitar, etc
 
+### **Hari Baheti**: [BAHETIHARSH](https://github.com/BAHETIHARSH)
+- Maharashtra, India
+- Hobbies: Trekking and PhotoGraphy
+
 ### **Athithian S.**: [ArcaneKnight52](https://github.com/ArcaneKnight52)
 - Tamil Nadu, India
 - Hobbies: Chess, CTF, Anime
