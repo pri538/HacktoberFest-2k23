@@ -4,6 +4,9 @@
 ### **Your-Name**: [Your-Name](https://github.com/pralinkhaira1903)
 - State, Country
 - Hobbies: Web Dev, Guitar, etc
+### **Prawesh Kafle**: [Praweshkafle](https://github.com/Praweshkafle)
+- Jhapa, Nepal
+- Hobbies: Software Engineer, Gaming, etc
 
 ### **Animesh**: [any-mesh](https://github.com/any-mesh)
 - Uttar Pradesh, India
