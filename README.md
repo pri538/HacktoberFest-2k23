@@ -1,2 +1,94 @@
-# HacktoberFest2k23
-Repo for newbies to contribute to Hacktober Fest2k23 and get badges/swags
+# HacktoberFest 2023
+- Repo for newbies to contribute to Hacktober Fest2k23 and get badges/swags
+## Perfect For Your First Pull Request
+🌟 **Hacktoberfest** promotes engagement within the open-source community, which continues to expand with each passing year. By successfully completing the challenge, you'll have a tree planted in your honor, demonstrating your commitment to our beloved planet Earth 🌍.
+
+📣 **Enroll** [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and submit four pull requests (PRs) from October 1st to October 31st 🔥.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/hacktoberfest-2023-blueviolet" alt="Hacktober Badge"/>
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+ <a href="https://github.com/pralinkhaira1903" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+
+<a href="https://github.com/pralinkhaira1903/HacktoberFest2k23/pulls"><img src="https://img.shields.io/github/issues-pr/pralinkhaira1903/HacktoberFest2k23" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/pralinkhaira1903/HacktoberFest2k23/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pralinkhaira1903/HacktoberFest2k23?color=2b9348"></a>
+<a href="https://github.com/pralinkhaira1903/HacktoberFest2k23/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pralinkhaira1903/HacktoberFest2k23?color=2b9348" alt="License Badge"/></a>
+
+</div>
+
+## Guidelines
+
+- Begin by forking this Repository using the button located at the top right corner.
+- Clone your forked repository to your computer (use the command `git clone` followed by the repository's URL).
+- Establish a new branch for your modifications (e.g., `git branch new-user` and switch to it using `git checkout new-user`, or simply use `git checkout -b new-user`).
+- Enter your profile information into the `content/participant/` directory.
+- Add your changes (`git add -A`), commit them (`git commit -m "added myself"`), and push them to your repository (`git push origin new-user`).
+- Create a pull request.
+- Don't forget to give this repository a star!
+
+# How To Make Your First Pull Request
+
+Replace `<Your-Name>` with your GitHub username in this guide.
+
+## 1. Add yourself in `Contributers.md`
+- Edit the markdown file in your folder following the convention, that means edit the template , delete the boilerplate data and fill the information with yours.
+
+```
+### **Your-Name**: [Your-Name](https://github.com/pralinkhaira1903)
+- State, Country
+- Hobbies: Web Dev, Guitar, etc
+```
+
+<div align="center">
+<h2> Or You Can </h2>
+</div>
+
+## 2. Upload Your Code or Algorithms or Any Other Resource (Useful)
+
+To contribute your code or algorithms, follow these steps:
+
+1. Create or upload your code in the designated folder following the specified convention: `Code` OR `Algorithms`.
+
+2. Choose the appropriate language folder and place your code file there. Here are examples for different programming languages:
+
+   - For Python:
+     ```
+     Code/PYTHON/YourFileName-YourName.py
+     ```
+
+   - For C++:
+     ```
+     Code/C++/YourFileName-YourName.cpp
+     ```
+3. Same instructions goes for Algrithms folder also.
+4. Make folders where-ever required.
+5. You can follow any pathway, whether it's adding code or providing profile information.
+
+## 4. Wait for Pull Request to merge
+
+## 5. Celebrate - You've Completed Your First Pull Request!
+
+```python
+'''
+Always aim to make more than 4 pull requests during Hacktoberfest.
+Even if you've submitted just 4 pull requests to different projects,
+if one project is excluded from the Hacktoberfest event, your pull request won't count.
+Ensure that the remaining 3 pull requests are to projects that are not excluded.
+Fulfilling the requirement of 4 pull requests is essential to receive swags or t-shirts.
+Consider making a pull request to your own repository, which is a very safe option.
+Make sure the repository has the Hacktoberfest topic.
+'''
+```
+
+## Follow Me for Quick Approval of Your Pull Request
+
+```python
+'''
+To expedite the approval of your pull request, don't forget to (`Follow Me`)🚀
+'''
+```
+
+<tr><td align="center"><a href="https://github.com/pralinkhaira1903"><kbd><img src="https://avatars3.githubusercontent.com/pralinkhaira1903?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Pralin Khaira</b></sub></a><br /></td>
+
+</tr>
