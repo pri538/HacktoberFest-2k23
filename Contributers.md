@@ -27,3 +27,7 @@
 ### **Rikin R.**: [CrazyRikin](https://github.com/CrazyRikin)
 - MP, India
 - Hobbies: Guitar, Cooking, Hiking.
+
+### **Rudra Parmar**: [rudraparmar76](https://github.com/rudraparmar76)
+- Maharashrtra, India
+- Hobbies: Web Dev, Guitar, etc
