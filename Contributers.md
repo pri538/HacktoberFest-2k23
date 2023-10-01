@@ -12,3 +12,7 @@
 ### **Pranil Jha**: [Pranil](https://github.com/hackos123)
 - Gujrat, India
 - Hobbies: Cricket, Gaming, etc
+
+### **Pralin Khaira**: [BitH0xer](https://github.com/pralinkhaira)
+- Jammu & Kashmir, India
+- Hobbies: Guitar, Gaming, Coding.
