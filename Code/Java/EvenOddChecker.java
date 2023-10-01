@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class EvenOddChecker {
     public static void main(String[] args) {
          Scanner input00 = new Scanner(System.in);
-        System.out.print("Masukan Angka : ");
+        System.out.print("Input Number: ");
         int angka = input00.nextInt();
         if (angka % 2 ==0){
-            System.out.println("Angka " + angka + " adalah bilangan genap");
+            System.out.println("Number " + angka + " is a odd number");
         }else{
-            System.out.println("Angka " + angka + " adalah bilangan ganjil");
+            System.out.println("Number " + angka + " is a even number");
         }
-        String  hasil = (angka % 2 == 0) ? "Bilangan Genap" : "Bilangan Ganjil";
-        System.out.println("Angka " + angka + " adalah = " + hasil);
+        String  hasil = (angka % 2 == 0) ? "Odd number" : "Even Number";
+        System.out.println("Number " + angka + " Is = " + hasil);
     }
 }
