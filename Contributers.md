@@ -44,3 +44,7 @@
 ### **Athithian S.**: [ArcaneKnight52](https://github.com/ArcaneKnight52)
 - Tamil Nadu, India
 - Hobbies: Chess, CTF, Anime
+
+### **Virej Dasani**: [virejdasani](https://github.com/virejdasani)
+- Maharashrtra, India
+- Hobbies: Coding, youtube
