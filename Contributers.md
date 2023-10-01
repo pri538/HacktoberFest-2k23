@@ -29,6 +29,10 @@
 - MP, India
 - Hobbies: Guitar, Cooking, Hiking.
 
+### **Max Muller**: [MMVonnSeek](https://github.com/MMVonnSeek)
+- DF, Brazil
+- Hobbies: Gym, Coding, Football.
+
 ### **Rudra Parmar**: [rudraparmar76](https://github.com/rudraparmar76)
 - Maharashrtra, India
 - Hobbies: Web Dev, Guitar, etc
