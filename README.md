@@ -66,6 +66,10 @@ To contribute your code or algorithms, follow these steps:
 4. Make folders where-ever required.
 5. You can follow any pathway, whether it's adding code or providing profile information.
 
+<div align="center">
+<h2> Or You Can Add Creative Ideas (Geeks For Geeks Solutions, etc)</h2>
+</div>
+
 ## 4. Wait for Pull Request to merge
 
 ## 5. Celebrate - You've Completed Your First Pull Request!
