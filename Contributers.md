@@ -31,3 +31,7 @@
 ### **Rudra Parmar**: [rudraparmar76](https://github.com/rudraparmar76)
 - Maharashrtra, India
 - Hobbies: Web Dev, Guitar, etc
+
+### **Hari Baheti**: [BAHETIHARSH](https://github.com/BAHETIHARSH)
+- Maharashtra, India
+- Hobbies: Trekking and PhotoGraphy
