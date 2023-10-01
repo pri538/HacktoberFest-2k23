@@ -13,7 +13,8 @@
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/pralinkhaira1903" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/pralinkhaira1903/HacktoberFest2k23/pulls"><img src="https://img.shields.io/github/issues-pr/pralinkhaira1903/HacktoberFest2k23" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/pralinkhaira1903/HacktoberFest2k23/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/pralinkhaira1903/HacktoberFest2k23" alt="PR's Merged"/></a>
+
 <a href="https://github.com/pralinkhaira1903/HacktoberFest2k23/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pralinkhaira1903/HacktoberFest2k23?color=2b9348"></a>
 <a href="https://github.com/pralinkhaira1903/HacktoberFest2k23/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pralinkhaira1903/HacktoberFest2k23?color=2b9348" alt="License Badge"/></a>
 
