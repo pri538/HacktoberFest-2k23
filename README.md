@@ -65,6 +65,12 @@ To contribute your code or algorithms, follow these steps:
 3. Same instructions goes for Algrithms folder also.
 4. Make folders where-ever required.
 5. You can follow any pathway, whether it's adding code or providing profile information.
+6. Create a Pull Request
+- Go to the original repository on GitHub and click the "New Pull Request" button. Ensure that you're comparing your branch to the main branch of the original repository.
+7. Describe Your Pull Request
+- Write a clear and concise description of your changes in the Pull Request description box. Be sure to mention what issue you're addressing if applicable.
+8. Submit Your Pull Request
+- Click the "Create Pull Request" button to submit your changes for review.
 
 <div align="center">
 <h2> Or You Can Add Creative Ideas (Geeks For Geeks Solutions, etc)</h2>
