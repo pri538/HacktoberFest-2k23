@@ -20,3 +20,7 @@
 ### **Aritro Chakraborty**: [www-cool](https://github.com/www-cool)
 - Kolkata, India
 - Hobbies: Guitar, Cooking, Cricket.
+
+### **Rikin R.**: [CrazyRikin](https://github.com/CrazyRikin)
+- MP, India
+- Hobbies: Guitar, Cooking, Hiking.
