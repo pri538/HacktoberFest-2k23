@@ -1,9 +1,14 @@
 # Contributers:
 ## Use this format to add your names to it:
-
+```
 ### **Your-Name**: [Your-Name](https://github.com/pralinkhaira1903)
 - State, Country
 - Hobbies: Web Dev, Guitar, etc
+```
+### **Pralin Khaira**: [BitH0xer](https://github.com/pralinkhaira)
+- Jammu & Kashmir, India
+- Hobbies: Guitar, Gaming, Coding.
+
 ### **Prawesh Kafle**: [Praweshkafle](https://github.com/Praweshkafle)
 - Jhapa, Nepal
 - Hobbies: Software Engineer, Gaming, etc
@@ -16,10 +21,6 @@
 - Gujrat, India
 - Hobbies: Cricket, Gaming, etc
 
-### **Pralin Khaira**: [BitH0xer](https://github.com/pralinkhaira)
-- Jammu & Kashmir, India
-- Hobbies: Guitar, Gaming, Coding.
-
 ### **Aritro Chakraborty**: [www-cool](https://github.com/www-cool)
 - Kolkata, India
 - Hobbies: Guitar, Cooking, Cricket.
@@ -28,6 +29,10 @@
 - MP, India
 - Hobbies: Guitar, Cooking, Hiking.
 
+### **Max Muller**: [MMVonnSeek](https://github.com/MMVonnSeek)
+- DF, Brazil
+- Hobbies: Gym, Coding, Football.
+
 ### **Rudra Parmar**: [rudraparmar76](https://github.com/rudraparmar76)
 - Maharashrtra, India
 - Hobbies: Web Dev, Guitar, etc
@@ -35,3 +40,7 @@
 ### **Hari Baheti**: [BAHETIHARSH](https://github.com/BAHETIHARSH)
 - Maharashtra, India
 - Hobbies: Trekking and PhotoGraphy
+
+### **Athithian S.**: [ArcaneKnight52](https://github.com/ArcaneKnight52)
+- Tamil Nadu, India
+- Hobbies: Chess, CTF, Anime
