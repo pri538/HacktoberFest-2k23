@@ -27,3 +27,7 @@
 ### **Rikin R.**: [CrazyRikin](https://github.com/CrazyRikin)
 - MP, India
 - Hobbies: Guitar, Cooking, Hiking.
+
+### **Max Muller**: [MMVonnSeek](https://github.com/MMVonnSeek)
+- DF, Brazil
+- Hobbies: Gym, Coding, Football.
