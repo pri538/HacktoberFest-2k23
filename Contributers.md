@@ -9,6 +9,6 @@
 - State, Country
 - Hobbies: Cricket, Gaming, etc
 
-### **Animesh**: [Animesh](https://github.com/any-mesh)
+### **Animesh**: [any-mesh](https://github.com/any-mesh)
 - Uttar Pradesh, India
 - Hobbies: AR/VR Dev, Drawing, etc
