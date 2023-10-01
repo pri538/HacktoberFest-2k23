@@ -17,6 +17,6 @@
 - Jammu & Kashmir, India
 - Hobbies: Guitar, Gaming, Coding.
 
-### **Aritro Chakraborty**: [BitH0xer](https://github.com/www-cool)
+### **Aritro Chakraborty**: [www-cool](https://github.com/www-cool)
 - Kolkata, India
 - Hobbies: Guitar, Cooking, Cricket.
