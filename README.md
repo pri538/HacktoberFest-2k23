@@ -1,5 +1,6 @@
 # HacktoberFest 2023
 - Repo for newbies to contribute to Hacktober Fest2k23 and get badges/swags
+- Star 🌟 this repo to get merge approval faster!
 ## Perfect For Your First Pull Request
 🌟 **Hacktoberfest** promotes engagement within the open-source community, which continues to expand with each passing year. By successfully completing the challenge, you'll have a tree planted in your honor, demonstrating your commitment to our beloved planet Earth 🌍.
 
