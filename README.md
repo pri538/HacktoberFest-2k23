@@ -1,6 +1,7 @@
 # HacktoberFest 2023
 - Repo for newbies to contribute to Hacktober Fest2k23 and get badges/swags
 - Star 🌟 this repo to get merge approval faster! (I won't be doing merge without star!)
+- From Monday onwards, I will be reviewing all PR(s) during 8PM To 12PM IST, as i have to manage my college academics also. Thanks for your patience!!
 ## Perfect For Your First Pull Request
 🌟 **Hacktoberfest** promotes engagement within the open-source community, which continues to expand with each passing year. By successfully completing the challenge, you'll have a tree planted in your honor, demonstrating your commitment to our beloved planet Earth 🌍.
 
