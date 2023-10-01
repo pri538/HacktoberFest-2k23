@@ -1,12 +1,3 @@
-#include<iostream>
-using namespace std;
-
-void swap (int *x, int *y){
-    int temp = *x;
-    *x=*y;
-    *y=temp;
-}
-
 /*
     Selection sort is a simple and efficient sorting algorithm that works by repeatedly selecting the smallest (or largest)
      element from the unsorted portion of the list and moving it to the sorted portion of the list. 
@@ -17,6 +8,14 @@ void swap (int *x, int *y){
         Therefore overall complexity = O(N) * O(N) = O(N*N) = O(N2)
 */
 
+#include<iostream>
+using namespace std;
+
+void swap (int *x, int *y){
+    int temp = *x;
+    *x=*y;
+    *y=temp;
+}
 
 void selectionSort(int arr[], int n){
     for(int i=0;i<n;i++){
