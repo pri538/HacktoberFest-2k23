@@ -1,8 +1,8 @@
 # HacktoberFest 2023
 - Repo for newbies to contribute to Hacktober Fest2k23 and get badges/swags
 - Star 🌟 this repo to get merge approval faster! (I won't be doing merge without star!)
-- From Monday onwards, I will be reviewing all PR(s) during 8PM To 12PM IST, as i have to manage my college academics also. Thanks for your patience!!
-## Perfect For Your First Pull Request
+- **Update:** I am sad to inform you that this repository has been excluded from the Hacktoberfest 2023 recognition.
+![sad](https://user-images.githubusercontent.com/92221630/271910136-3baaa540-8eb6-45d2-8755-a4f958fe1ac7.png)
 🌟 **Hacktoberfest** promotes engagement within the open-source community, which continues to expand with each passing year. By successfully completing the challenge, you'll have a tree planted in your honor, demonstrating your commitment to our beloved planet Earth 🌍.
 
 📣 **Enroll** [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and submit four pull requests (PRs) from October 1st to October 31st 🔥.
